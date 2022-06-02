@@ -1,6 +1,6 @@
 🙋🏽‍♀️ Olá, tudo bem? Meu nome é Angélica Barros, sou psicóloga organizacional e apaixonada pela área de dados.
 
-💼 Atualmente estudo e desenvolvo alguns projetos na área de dados com foco em Python e SQL.
+💼 Atualmente estudo e desenvolvo alguns projetos na área de dados com foco em Python.
 
 
 
